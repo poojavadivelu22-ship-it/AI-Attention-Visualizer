@@ -6,6 +6,9 @@ AI Attention Visualizer is a simple AI-based application that helps users unders
 
 The project is developed using Python and Streamlit. It provides an easy-to-use interface for uploading images and processing the text using OCR.
 
+ ## Live Demo
+ https://ai-attention-visualizer-xef4vmdchwkv3vu9k9sres.streamlit.app/
+
 ## Features
 
 * Upload an image
@@ -154,8 +157,6 @@ For Streamlit Cloud deployment:
 * Uses OCR technology
 * Can be accessed through a web browser
 * Useful for AI and NLP learning
-
-  https://ai-attention-visualizer-xef4vmdchwkv3vu9k9sres.streamlit.app/
 
 ## Conclusion
 
